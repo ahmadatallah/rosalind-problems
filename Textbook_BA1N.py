@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+'''
+A solution to a code challenges that accompanies Bioinformatics Algorithms: An Active-Learning Approach by Phillip Compeau & Pavel Pevzner.
+The textbook is hosted on Stepic and the problem is listed on ROSALIND under the Textbook Track.
+
+Problem Title: Generate the d-Neighborhood of a String
+Chapter #: 01
+Problem ID: N
+URL: http://rosalind.info/problems/ba1n/
+'''
+
 from itertools import product
 import os 
 
